@@ -1,0 +1,14 @@
+# Site settings
+title: Douglas James Anderson
+description: >
+  The 'Professional' site for Douglas James Anderson
+
+baseurl: ""
+url: "http://djanderson.com"
+
+email: hockeybuggy@gmail.com
+blog: hockeybuggy.com
+twitter_username: hockeybuggy
+github_username:  hockeybuggy
+
+markdown: kramdown
